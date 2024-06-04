@@ -31,3 +31,6 @@ Before you begin, ensure you have met the following requirements:
 2. Create a database named `jdgroup`:
    ```sql
    CREATE DATABASE jdgroup;
+
+
+![image](https://github.com/Jay-Dalsaniya/CRUD-OPERATION-WITH-JAVA-USING-WITH-MYSQL/assets/168808927/eebede5c-d583-4ca9-ab7e-426c383192c5)
